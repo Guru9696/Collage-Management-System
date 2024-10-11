@@ -1,3 +1,5 @@
+<h1>College Management System</h1>
+
 This Project provides the detail structure of the college campus and its 
 departments. College Management System synchronizes the working of all the
 departments. It looks on all aspects of a college, its students, faculties, 
